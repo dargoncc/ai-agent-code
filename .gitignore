@@ -1,2 +1,8 @@
+.DS_Store
 node_modules/
-.env
+*-lock.json
+*-lock.*
+*.lock
+*.env*
+# 测试项目
+*react-todo-app/
