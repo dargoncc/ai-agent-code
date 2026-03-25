@@ -1,3 +1,4 @@
 packages:
   - "tool-test"
   - "rag-test"
+  - "milvus-test"

@@ -6,3 +6,5 @@ node_modules/
 *.env*
 # 测试项目
 *react-todo-app/
+# 向量数据库
+*volumes/
